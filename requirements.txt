@@ -1,0 +1,6 @@
+streamlit
+validators
+selenium
+python-dotenv
+webdriver-manager
+google-generativeai
